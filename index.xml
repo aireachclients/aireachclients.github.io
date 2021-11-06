@@ -181,10 +181,10 @@
     
     <item>
       <title>Consultation Services</title>
-      <link>https://aireachclients.github.io/service/business-consulting/</link>
+      <link>https://aireachclients.github.io/service/consultation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aireachclients.github.io/service/business-consulting/</guid>
+      <guid>https://aireachclients.github.io/service/consultation/</guid>
       <description>Discuss your immigration goals and gain immediate clarity on your best pathway to Canada.</description>
     </item>
     
@@ -199,19 +199,19 @@
     
     <item>
       <title>Document Management</title>
-      <link>https://aireachclients.github.io/service/invesment-planning.1/</link>
+      <link>https://aireachclients.github.io/service/document-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aireachclients.github.io/service/invesment-planning.1/</guid>
+      <guid>https://aireachclients.github.io/service/document-management/</guid>
       <description>Our friendly and accessible team members will work with you to gather important information and get your application underway as soon as possible.</description>
     </item>
     
     <item>
       <title>Document Review</title>
-      <link>https://aireachclients.github.io/service/invesment-planning/</link>
+      <link>https://aireachclients.github.io/service/document-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aireachclients.github.io/service/invesment-planning/</guid>
+      <guid>https://aireachclients.github.io/service/document-review/</guid>
       <description>Our expert team member will review your file and provide written suggestions on how you can perfect your application before you submit to the government.</description>
     </item>
     
@@ -226,10 +226,10 @@
     
     <item>
       <title>Job &amp; Training</title>
-      <link>https://aireachclients.github.io/service/market-analysis/</link>
+      <link>https://aireachclients.github.io/service/job-training/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aireachclients.github.io/service/market-analysis/</guid>
+      <guid>https://aireachclients.github.io/service/job-training/</guid>
       <description>We offer free assistance in finding relvant training &amp;amp; job for you for selective Visa categories.</description>
     </item>
     
@@ -253,10 +253,10 @@
     
     <item>
       <title>Multi Lingual Support</title>
-      <link>https://aireachclients.github.io/service/market-analysis.1/</link>
+      <link>https://aireachclients.github.io/service/multilingual-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aireachclients.github.io/service/market-analysis.1/</guid>
+      <guid>https://aireachclients.github.io/service/multilingual-support/</guid>
       <description>We serve clients from all over the world to help immigrate to Canada.</description>
     </item>
     
@@ -294,15 +294,6 @@
       
       <guid>https://aireachclients.github.io/search/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Trusted Team</title>
-      <link>https://aireachclients.github.io/service/business-consulting.1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aireachclients.github.io/service/business-consulting.1/</guid>
-      <description>We offer the Complete Immigration Service to Canada. We are also a Licensed International Employment Agency for the Canadian labour market.</description>
     </item>
     
   </channel>

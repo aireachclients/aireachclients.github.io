@@ -186,7 +186,7 @@
   </url>
   
   <url>
-    <loc>https://aireachclients.github.io/service/business-consulting/</loc>
+    <loc>https://aireachclients.github.io/service/consultation/</loc>
   </url>
   
   <url>
@@ -194,11 +194,11 @@
   </url>
   
   <url>
-    <loc>https://aireachclients.github.io/service/invesment-planning.1/</loc>
+    <loc>https://aireachclients.github.io/service/document-management/</loc>
   </url>
   
   <url>
-    <loc>https://aireachclients.github.io/service/invesment-planning/</loc>
+    <loc>https://aireachclients.github.io/service/document-review/</loc>
   </url>
   
   <url>
@@ -206,7 +206,7 @@
   </url>
   
   <url>
-    <loc>https://aireachclients.github.io/service/market-analysis/</loc>
+    <loc>https://aireachclients.github.io/service/job-training/</loc>
   </url>
   
   <url>
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://aireachclients.github.io/service/market-analysis.1/</loc>
+    <loc>https://aireachclients.github.io/service/multilingual-support/</loc>
   </url>
   
   <url>
@@ -239,10 +239,6 @@
   
   <url>
     <loc>https://aireachclients.github.io/service/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aireachclients.github.io/service/business-consulting.1/</loc>
   </url>
   
 </urlset>
